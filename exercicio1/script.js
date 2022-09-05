@@ -23,7 +23,4 @@ sacolao.push(fruta01)
 sacolao.push(fruta02,fruta03)
 
 
-
-
 console.log (sacolao)
-console.lg (sacola(0))
