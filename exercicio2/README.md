@@ -1,8 +1,4 @@
-# Exercício 2
 
-Leia o código abaixo, e responda:
-
-```jsx
 const filme = {
 	nome: "Auto da Compadecida", 
 	ano: 2000, 
@@ -16,12 +12,14 @@ const filme = {
 		{canal: "Globo", horario: "14h"}
 		]
 };
-```
+console.log (filme.elenco[0])
 
-a) Qual o código para imprimir o nome do **primeiro** ator/atriz?
+
+// a) Qual o código para imprimir o nome do **primeiro** ator/atriz?
+
 
 b) Qual o código para imprimir o nome do **último** ator/atriz?
 
 c) Qual o código para exibir o array com **todas** as transmissões de hoje?
 
-d) Qual o código para exibir o **horário** de transmissão do filme no `Canal Brasil`?
+d) Qual o código para exibir o **horário** de transmissão do filme no `Canal Brasil`? -->
